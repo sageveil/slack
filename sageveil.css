@@ -7,14 +7,14 @@
 .p-workspace__primary_view,
 .p-workspace__primary_view_contents,
 .p-file_drag_drop__container {
-  background-color: #1D2320 !important;
+  background-color: #1C211E !important;
 }
 
 .sk-client-theme--dark {
-  --sk_primary_background: #1D2320;
+  --sk_primary_background: #1C211E;
 }
 
 .c-basic_container__body,
 .c-message_kit__hover:hover {
-  background: #1F2624 !important;
+  background: #212723 !important;
 }
